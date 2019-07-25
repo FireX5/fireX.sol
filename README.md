@@ -1,0 +1,2 @@
+# fireX.sol
+Contract
